@@ -7,7 +7,7 @@ var port = normalizePort(process.env.PORT || '3000');
 
 app.get('/', function (req, res) {
 
-		  res.send('Hi. How are you today! Thanks for making it today!! Lenah');
+		  res.send('Hi. How are you today! Apologies for not making it on Friday and `Thanks for making it today!! Lenah');
 
 });
 
