@@ -33,7 +33,7 @@ CircleCI integration
 ==============
 
 * Link your account with CircleCI by following 
-["Getting Started with CircleCI"](https://circleci.com/docs/getting-started).
+["Getting Started with CircleCI"](https://circleci.com/docs/2.0/getting-started/#section=getting-started).
 
 
 * After the account is linked, when you push changes to the repo CircleCI will run your tests and code coverage.
